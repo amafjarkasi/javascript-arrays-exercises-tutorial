@@ -148,7 +148,7 @@
         {
             "slug": "06.4-Loop-from-the-half-to-the-end",
             "title": "06.4-Loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/06.4-Loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -159,7 +159,7 @@
         {
             "slug": "06.5-One-last-looping",
             "title": "06.5-One-last-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/06.5-One-last-looping",
             "translations": [
                 "es",
@@ -170,7 +170,7 @@
         {
             "slug": "07.1-Finding-Wally",
             "title": "07.1-Finding-Wally",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Wally",
             "translations": [
                 "es",
